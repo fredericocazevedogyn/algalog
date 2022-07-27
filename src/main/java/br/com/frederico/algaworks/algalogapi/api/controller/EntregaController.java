@@ -36,6 +36,7 @@ public class EntregaController {
 	@Autowired
 	private EntregaAssembler entregaAssembler;
 	
+	
 	@Autowired
 	private FinalizacaoEntregaService finalizacaoEntregaService;
 	
